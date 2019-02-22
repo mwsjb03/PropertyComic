@@ -1,0 +1,2 @@
+# PropertyComic
+GitHub Pages
